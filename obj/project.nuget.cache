@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d29yez84EbU=",
+  "dgSpecHash": "tOsKisj57lU=",
   "success": true,
-  "projectFilePath": "e:\\Rezaei\\Backend\\TodoApp(GenerateWithAIInVSCode)\\TodoApp\\TodoApp.csproj",
+  "projectFilePath": "E:\\Rezaei\\Backend\\Projects\\ToDoList\\TodoApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\994077\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\994077\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

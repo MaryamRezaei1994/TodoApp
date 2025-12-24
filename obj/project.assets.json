@@ -4526,11 +4526,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Rezaei\\Backend\\TodoApp(GenerateWithAIInVSCode)\\TodoApp\\TodoApp.csproj",
+      "projectUniqueName": "E:\\Rezaei\\Backend\\Projects\\ToDoList\\TodoApp.csproj",
       "projectName": "TodoApp",
-      "projectPath": "E:\\Rezaei\\Backend\\TodoApp(GenerateWithAIInVSCode)\\TodoApp\\TodoApp.csproj",
+      "projectPath": "E:\\Rezaei\\Backend\\Projects\\ToDoList\\TodoApp.csproj",
       "packagesPath": "C:\\Users\\994077\\.nuget\\packages\\",
-      "outputPath": "E:\\Rezaei\\Backend\\TodoApp(GenerateWithAIInVSCode)\\TodoApp\\obj\\",
+      "outputPath": "E:\\Rezaei\\Backend\\Projects\\ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
