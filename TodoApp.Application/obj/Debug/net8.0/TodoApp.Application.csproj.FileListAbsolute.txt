@@ -1,0 +1,16 @@
+E:\Rezaei\Backend\Projects\TodoApp\TodoApp.Application\bin\Debug\net8.0\TodoApp.Application.deps.json
+E:\Rezaei\Backend\Projects\TodoApp\TodoApp.Application\bin\Debug\net8.0\TodoApp.Application.dll
+E:\Rezaei\Backend\Projects\TodoApp\TodoApp.Application\bin\Debug\net8.0\TodoApp.Application.pdb
+E:\Rezaei\Backend\Projects\TodoApp\TodoApp.Application\bin\Debug\net8.0\TodoApp.Domain.dll
+E:\Rezaei\Backend\Projects\TodoApp\TodoApp.Application\bin\Debug\net8.0\TodoApp.Domain.pdb
+E:\Rezaei\Backend\Projects\TodoApp\TodoApp.Application\obj\Debug\net8.0\TodoApp.Application.csproj.AssemblyReference.cache
+E:\Rezaei\Backend\Projects\TodoApp\TodoApp.Application\obj\Debug\net8.0\TodoApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rezaei\Backend\Projects\TodoApp\TodoApp.Application\obj\Debug\net8.0\TodoApp.Application.AssemblyInfoInputs.cache
+E:\Rezaei\Backend\Projects\TodoApp\TodoApp.Application\obj\Debug\net8.0\TodoApp.Application.AssemblyInfo.cs
+E:\Rezaei\Backend\Projects\TodoApp\TodoApp.Application\obj\Debug\net8.0\TodoApp.Application.csproj.CoreCompileInputs.cache
+E:\Rezaei\Backend\Projects\TodoApp\TodoApp.Application\obj\Debug\net8.0\TodoApp.Application.sourcelink.json
+E:\Rezaei\Backend\Projects\TodoApp\TodoApp.Application\obj\Debug\net8.0\TodoApp..05D78BBE.Up2Date
+E:\Rezaei\Backend\Projects\TodoApp\TodoApp.Application\obj\Debug\net8.0\TodoApp.Application.dll
+E:\Rezaei\Backend\Projects\TodoApp\TodoApp.Application\obj\Debug\net8.0\refint\TodoApp.Application.dll
+E:\Rezaei\Backend\Projects\TodoApp\TodoApp.Application\obj\Debug\net8.0\TodoApp.Application.pdb
+E:\Rezaei\Backend\Projects\TodoApp\TodoApp.Application\obj\Debug\net8.0\ref\TodoApp.Application.dll
